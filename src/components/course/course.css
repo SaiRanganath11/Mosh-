@@ -56,4 +56,8 @@ div.spa{
     div.main{
         padding: 10px;
     }
+    div.outer{
+        margin: 10px 0px 10px 0px;
+
+    }
 }
