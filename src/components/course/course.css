@@ -45,7 +45,7 @@ div.outer:hover{
     border: 1px solid #90939b;
 }
 div.outer:hover h2{
-    color: red;
+    color:blue;
 
 }
 div.spa{
